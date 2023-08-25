@@ -85,20 +85,20 @@ Otra forma de obsolescencia programada es la actualización continua y rápida d
 
 Amigos no se asusten y tampoco se preocupen tanto ya que aunque estamos inmersos dentro de la obsolescencia programada tambien existió alguien que hablo de la TEORÍA DE LA CALIDAD TOTAL y este fue DEMING la cual funciona por medio de las premisas de 14 principios que son:
 
-    Constancia en el propósito de mejorar   productos y principios
-    Adoptar una nueva filosofía
-    No depender más de la inspección   masiva 
-    Acabar con la práctica de adjudicar contratos de compra basándose exclusivamente en el precio.
-    Mejorar continuamente y por siempre los sistemas de   producción y servicio
-    Instituir la capacitración en el trabajo.
-    Instituir el liderazgo.
-    Desterrar el temor.
-    Derribar las barreras que hay entre áreas   de staff.
-    Eliminar los lemas, las exhortaciones y las   metas de producción para la fuerza laboral.
-    Eliminas las cuotas   numéricas.
-    Derribar las barreras que impiden el sentimiento   de orgullo que produce un trabajo bien hecho.
-    Establecer un vigoroso programa de educación y entrenamiento.
-    Tomar medidas para lograr la   transformación.
+   <br><h3> * Constancia en el propósito de mejorar   productos y principios <br>
+    * Adoptar una nueva filosofía<br>
+    * No depender más de la inspección   masiva <br>
+    * Acabar con la práctica de adjudicar contratos de compra basándose exclusivamente en el precio.<br>
+    * Mejorar continuamente y por siempre los sistemas de   producción y servicio<br>
+    * Instituir la capacitración en el trabajo.<br>
+    * Instituir el liderazgo.<br>
+    * Desterrar el temor.<br>
+    * Derribar las barreras que hay entre áreas   de staff.<br>
+    * Eliminar los lemas, las exhortaciones y las   metas de producción para la fuerza laboral.<br>
+    * Eliminas las cuotas   numéricas.<br>
+    * Derribar las barreras que impiden el sentimiento   de orgullo que produce un trabajo bien hecho.<br>
+    * Establecer un vigoroso programa de educación y entrenamiento.<br>
+    * Tomar medidas para lograr la   transformación.<br></h3>
 
  
 
