@@ -1,117 +1,74 @@
-# Obsolecencia-Programada
-<b><h1>La Obsolescencia Programada Aparatos Fabricados para no durar</b></h1>
+# Obsolescencia Programada
+### Aparatos fabricados para no durar
 
- 
+---
 
- 
+## ¿Sabían esto?
 
- 
+La obsolescencia programada u obsolescencia planificada es la determinación o programación del fin de la vida útil de un producto, de modo que, tras un período de tiempo calculado de antemano por el fabricante o por la empresa durante la fase de diseño del mismo, este se torne obsoleto, no funcional, inútil o inservible por diversos procedimientos, por ejemplo por falta de repuestos, y haya que comprar otro nuevo que lo sustituya.
 
-SABIAN ESTO.
- -----------------
- La obsolescencia programada u obsolescencia planificada es la determinación o programación del fin de la vida útil de un producto, de modo que, tras un período de tiempo calculado de antemano por el fabricante o por la empresa durante la fase de diseño del mismo, este se torne obsoleto, no funcional, inútil o inservible por diversos procedimientos, por ejemplo por falta de repuestos, y haya que comprar otro nuevo que lo sustituya. Su función es generar más ingresos debido a compras más frecuentes para generar relaciones de adicción (en términos comerciales, «fidelización») que redundan en beneficios económicos continuos por periodos de tiempo más largos para empresas o fabricantes. 
+Su función es generar más ingresos debido a compras más frecuentes para generar relaciones de adicción (en términos comerciales, «fidelización») que redundan en beneficios económicos continuos por periodos de tiempo más largos para empresas o fabricantes.
 
- 
+### Origen
+Se considera que el origen de la obsolescencia programada se remonta a **1932**, cuando Bernard London proponía terminar con la gran depresión lucrando a costa de la sociedad a través de la obsolescencia planificada y obligada por ley (aunque nunca se llevase a cabo).
 
-Como nota de este tema podría decirles que  se considera que el origen de la obsolescencia programada se remonta a 1932, cuando Bernard London proponía terminar con la gran depresión lucrando a costa de la sociedad a través de la obsolescencia planificada y obligada por ley (aunque nunca se llevase a cabo), pero en el año de 1934  e y obligada por ley (aunque nunca se llevase a cabo), pero en el año de 1934  el primer producto víctima de la Obsolescencia Programada es la bombilla (foco). Cuando  se reúnen en Ginebra un grupo de fabricantes los cuáles dan lugar al primer cártel mundial: Cártel Phoebus y así empieza el lucro indiscriminado y amparado por las leyes que cosas no?.
+Sin embargo, en el año **1934**, el primer producto víctima de la Obsolescencia Programada fue la **bombilla (foco)**. Cuando se reúnen en Ginebra un grupo de fabricantes los cuáles dan lugar al primer cártel mundial: **Cártel Phoebus**. Así empieza el lucro indiscriminado y amparado por las leyes.
 
-<b><h2>Objetivo de la obsolescencia programada</b></h2>
+---
 
- 
+## Objetivo de la Obsolescencia Programada
 
-El objetivo de la obsolescencia no es crear productos de calidad, sino exclusivamente el lucro económico, no teniéndose en cuenta las necesidades de los consumidores, ni las repercusiones medioambientales en la producción y mucho menos las consecuencias que se generan desde el punto de vista de la acumulación de residuos y la contaminación que conllevan. Esta práctica ha creado un creciente malestar entre los consumidores, por lo que en tiempos recientes, activistas, medios de comunicación, organizaciones e incluso los mismos consumidores y varias empresas están llevando acciones para revertir esta práctica.
+El objetivo de la obsolescencia no es crear productos de calidad, sino exclusivamente el lucro económico. No se tienen en cuenta las necesidades de los consumidores, ni las repercusiones medioambientales en la producción, y mucho menos las consecuencias que se generan desde el punto de vista de la acumulación de residuos y la contaminación que conllevan.
 
- 
+Esta práctica ha creado un creciente malestar entre los consumidores, por lo que en tiempos recientes, activistas, medios de comunicación, organizaciones e incluso los mismos consumidores y varias empresas están llevando acciones para revertir esta práctica.
 
-Como ejemplo podriamos hablar del sistema operativo WINDOWS en crear cada cierto tiempo la obsolescencia programada para poder vender un nuevo sistema operativo completo solo con pocas mejoras hechas al nucleo pero una nueva forma de verse en diseño y así en muchas cosas mas que vemos en todo lo que se vende.
+### Ejemplos Comunes
+*   **Sistemas Operativos (Windows):** Crean obsolescencia programada cada cierto tiempo para poder vender un nuevo sistema operativo completo, solo con pocas mejoras hechas al núcleo y un nuevo diseño visual.
+*   **Consolas y Tecnología:** Productos como **Xbox** o **PS4**, donde se cambia el diseño externo o se añaden funciones menores para hacer que el modelo anterior parezca obsoleto (obsolescencia percibida).
 
- 
+---
 
-Otro ejemplo sería el llamado Transcript of Obsolescencia percibida Cuando crean un producto con cierto aspecto, y más adelante se vende  exactamente el mismo producto cambiando tan solo el diseño del mismo.  ejemplo:   XBOX - PS4  etc..
+## ¿Cuáles son los tipos de obsolescencia?
 
- 
+Vance Packard es un pionero en estudiar este fenómeno y en su libro *The Waste Makers* identifica varios tipos:
 
- 
+1.  **Obsolescencia de función:** Se produce cuando un producto debe ser sustituido por otro que tiene unas mejores especificaciones. Pasa, por ejemplo, con los teléfonos móviles cuyo software no puede ser actualizado en un terminal antiguo.
+2.  **Obsolescencia de calidad:** Se da cuando el producto se vuelve obsoleto por un mal funcionamiento programado.
+3.  **Obsolescencia de deseo:** Ocurre cuando el producto, aun siendo completamente funcional y no habiendo sustituto mejor, deja de ser deseado por cuestiones de moda o estilo, y se le asignan valores peyorativos que disminuyen su deseo de compra.
+4.  **Obsolescencia incorporada:** Podría fácilmente ser considerada como un delito, ya que provoca un perjuicio económico a los usuarios que adquieren el producto con expectativas de duración y disponibilidad.
+5.  **Obsolescencia psicológica:** Un gran número de electrodomésticos, especialmente los PAE (Pequeño Aparato Electrodoméstico), no duran tanto como en el pasado. Los fabricantes promueven nuevos productos en función de la moda y el lujo, haciendo que los modelos anteriores no sean atractivos.
+6.  **Obsolescencia tecnológica:** La actualización continua y rápida de productos como ordenadores, dispositivos de entretenimiento y telefonía móvil.
 
- <b><h3>¿Cuáles son los tipos de obsolescencia?</b></h3>
+---
 
- 
+## Teoría de la Calidad Total de Deming
 
-Vance  Packard es un pionero en estudiar este fenómeno y en su libro The Waste  Makers identifica tres tipos existentes de obsolescencia programada:
+Aunque estamos inmersos dentro de la obsolescencia programada, también existió alguien que habló de la **TEORÍA DE LA CALIDAD TOTAL**: **Deming**. Esta funciona por medio de 14 principios:
 
-<b><h3>    Obsolescencia de función.  </b></h3>
+1.  Constancia en el propósito de mejorar productos y principios.
+2.  Adoptar una nueva filosofía.
+3.  No depender más de la inspección masiva.
+4.  Acabar con la práctica de adjudicar contratos de compra basándose exclusivamente en el precio.
+5.  Mejorar continuamente y por siempre los sistemas de producción y servicio.
+6.  Instituir la capacitación en el trabajo.
+7.  Instituir el liderazgo.
+8.  Desterrar el temor.
+9.  Derribar las barreras que hay entre áreas de staff.
+10. Eliminar los lemas, las exhortaciones y las metas de producción para la fuerza laboral.
+11. Eliminar las cuotas numéricas.
+12. Derribar las barreras que impiden el sentimiento de orgullo que produce un trabajo bien hecho.
+13. Establecer un vigoroso programa de educación y entrenamiento.
+14. Tomar medidas para lograr la transformación.
 
- 
+> Para más detalle de estas premisas, puedes visitar: [Monografías - Principios de Deming](http://www.monografias.com/trabajos14/principios-deming/principios-deming.shtml)
 
-Se produce cuando un producto debe ser  sustituido por otro que tiene unas mejores especificaciones. Pasa, por  ejemplo, con el caso de los teléfonos móviles cuyo software no puede ser  actualizado en un terminal antiguo.
+---
 
-<b><h3>    Obsolescencia de calidad. </b></h3>
+## 👤 Autor y Empresa
 
- 
+Desarrollado con fines educativos y de conciencia social.
 
- Se da cuando el producto se vuelve obsoleto por un mal funcionamiento programado. 
-
-  <b><h3>    Obsolescencia de Deseo. </b></h3>. 
-
- 
-
-Ocurre cuando el producto, aun siendo completamente funcional y no  habiendo sustituto mejor, deja de ser deseado por cuestiones de moda o  estilo, y se le asignan valores peyorativos que disminuyen su deseo de  compra y animan a su sustitución. 
-
-<b><h3>    Obsolescencia Incorporada. </b></h3> 
-
- 
-
- La primera de ellas, podría fácilmente ser considerada como undelito,ya que provoca un perjuicio económico a los usuarios que adquieren el  producto con expectativas de duración y disponibilidad. Es fuente de  controversia y es la forma más tratada en todas las fuentes de  información. 
-
-<b><h3>    Obsolescencia Psicológica. </b></h3> 
-
- 
-
-  Un gran número de electrodomésticos, especialmente los que se conocen como PAE (Pequeño Aparato Electrodoméstico),no duran tanto como en el pasado, y ¡todos tenemos experiencias recientes a este respecto!  Además los fabricantes promueven nuevos productos en función de la moda  y el lujo, haciendo que los modelos anteriores no sean atractivos. 
-
-<b><h3>    Obsolescencia Tecnologica </b></h3>
-
- 
-
-Otra forma de obsolescencia programada es la actualización continua y rápida de productos como ordenadores, de entretenimiento, telefonía móvil. 
-
- 
-
- 
-
-<b><h2>    Teoría de la calidad total de Deming
- </b></h2>
- 
-
-Amigos no se asusten y tampoco se preocupen tanto ya que aunque estamos inmersos dentro de la obsolescencia programada tambien existió alguien que hablo de la TEORÍA DE LA CALIDAD TOTAL y este fue DEMING la cual funciona por medio de las premisas de 14 principios que son:
-
-   <br><h3> * Constancia en el propósito de mejorar   productos y principios <br>
-    * Adoptar una nueva filosofía<br>
-    * No depender más de la inspección   masiva <br>
-    * Acabar con la práctica de adjudicar contratos de compra basándose exclusivamente en el precio.<br>
-    * Mejorar continuamente y por siempre los sistemas de   producción y servicio<br>
-    * Instituir la capacitración en el trabajo.<br>
-    * Instituir el liderazgo.<br>
-    * Desterrar el temor.<br>
-    * Derribar las barreras que hay entre áreas   de staff.<br>
-    * Eliminar los lemas, las exhortaciones y las   metas de producción para la fuerza laboral.<br>
-    * Eliminas las cuotas   numéricas.<br>
-    * Derribar las barreras que impiden el sentimiento   de orgullo que produce un trabajo bien hecho.<br>
-    * Establecer un vigoroso programa de educación y entrenamiento.<br>
-    * Tomar medidas para lograr la   transformación.<br></h3>
-
- 
-
-para mas detalle de estas:http://www.monografias.com/trabajos14/principios-deming/principios-deming.shtml
-
- 
-
-Con esto amigos nos podemos dar cuenta que estamos en control de las fabricas que crean cosas para no durar o será que esto es parte de un plan mas grande y que pertenece al EStablishment unimundista. 
-
- 
-
-Saludos
-
- 
-
-Li. Rodolfo Hernandez Baz
+*   **Creador:** [Rodolfo Hernandez Baz](https://www.rodolfohbaz.info/)
+*   **Desarrollador Principal:** [Pr0fEs0r-X](https://github.com/Pr0fEs0r-X)
+*   **Compañía:** [Rhino Forensic & Reverse Toolkit v 1.0](https://rhinosecurity.xyz/)
+```
